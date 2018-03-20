@@ -1,3 +1,24 @@
+
+#angularjs2
+http://blog.csdn.net/kkkder/article/details/78706310
+https://github.com/damingerdai/web-qq
+http://blog.csdn.net/cuiwader/article/details/52639368
+https://www.cnblogs.com/sulishibaobei/p/6094898.html
+
+https://github.com/borysn/spring-boot-angular2
+http://www.devglan.com/spring-boot/spring-boot-angular-example;jsessionid=7C3D4E5EFA3CEE7100BCC6A0A862DFEA
+--------------------------
+https://github.com/ityouknow/spring-cloud-examples
+https://github.com/ityouknow/spring-boot-examples
+https://gitee.com/naan1993/guns.git
+https://www.oschina.net/p/bootdo
+https://www.oschina.net/p/tale
+
+http://www.uml.org.cn/oobject/201609062.asp
+
+http://www.w3school.com.cn/index.html
+
+
 自学深度学习，这些途径可以获取数据集
 转载 2018年01月10日 00:00:00 441
 640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1
