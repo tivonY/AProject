@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<!-- saved from url=(0023)https://metroui.org.ua/ -->
+<html lang="en" class="metro-no-touch-device"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+    <link href="./css/metro-all.css" rel="stylesheet">
+    <link href="./css/site.css" rel="stylesheet">
+
+    <title>Metro 4 - Popular HTML, CSS and JS library</title>
+</head>
+<body>
+
+    <div class="container-fluid" id="hero-wrapper">
+        <div class="container hero pt-md-3 pb-md-3">
+            <div class="row flex-align-center">
+                <div class="cell-md-6 order-md-2">
+                    <div class="img-container p-4-md">
+                        <img src="./css/m4-logo-social-1.png">
+                    </div>
+
+                </div>
+                <div class="cell-md-6 p-md-5 text-center text-left-md">
+                    <h1 class="d-none d-block-md">Cost Analysis Tool</h1>
+                    <p class="text-leader">
+                        <strong>Are you tired of Bootstrap or did not fall in love it?</strong>
+                        <br>
+                        Build responsive, mobile-first projects on the web with the first front-end component library in Metro Style.
+                    </p>
+                    <p class="text-leader2">
+                        Metro 4 is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with responsive grid system, extensive prebuilt components, and powerful plugins built on jQuery.
+                    </p>
+                   
+                </div>
+            </div>
+        </div>
+		
+		<canvas class="particles-js-canvas-el" width="1349" height="677" style="width: 100%; height: 100%;"></canvas>
+		
+		</div>
+
+   
+
+    <script src="./css/jquery-3.3.1.min.js"></script>
+    <script src="./css/metro.js"></script>
+    <script src="./css/particles.min.js"></script>
+    <script>
+        particlesJS.load('hero-wrapper', 'css/particles.json', function(){});
+        $(".version-number").html(Metro.ver());
+
+        setTimeout(function(){
+            var b = $(".adsbygoogle");
+            var h = 0;
+            $.each(b, function(){
+                var bl = $(this);
+                if (bl.height() < 50 || Metro.utils.getStyleOne(bl, 'display') === 'none') {
+                    bl.parent().html("<div class='bg-red fg-white p-4 text-center h3 text-light'>With your help, I can make Metro 4 even better! Please, disable AdBlock or AdGuard. Thank you for support!</div>");
+                }
+            });
+        }, 1000);
+
+    </script>
+
+
+	</body>
+
+</html>

@@ -1,9 +1,19 @@
 
+#spring boot
+1.jpa
+2.Thymeleaf 刷新问题：配置spring.thymeleaf.cache=false; 修改html页面后，build project; 刷新html页面； 
+
+
 #angularjs2
 http://blog.csdn.net/kkkder/article/details/78706310
 https://github.com/damingerdai/web-qq
 http://blog.csdn.net/cuiwader/article/details/52639368
 https://www.cnblogs.com/sulishibaobei/p/6094898.html
+
+Demo：
+http://www.jqueryfuns.com/resource/2652
+https://github.com/myopenresources/cc
+http://www.cssmoban.com/cssthemes/5604.shtml
 
 https://github.com/borysn/spring-boot-angular2
 http://www.devglan.com/spring-boot/spring-boot-angular-example;jsessionid=7C3D4E5EFA3CEE7100BCC6A0A862DFEA
@@ -16,6 +26,10 @@ https://www.oschina.net/p/tale
 
 http://www.uml.org.cn/oobject/201609062.asp
 
+main
+http://blog.csdn.net/cuijie0197/article/details/79331466
+
+
 http://www.w3school.com.cn/index.html
 
 
@@ -25,7 +39,7 @@ http://www.w3school.com.cn/index.html
 
 来源：景略集智
 http://blog.csdn.net/tkkzc3E6s4Ou4/article/details/79032371
-
+http://blog.csdn.net/zw0Pi8G5C1x/article/details/79546758
 
 学好机器学习的关键是用许多不同的数据集来练习。因为对不同的问题，需要有不同的数据准备和建模方法。我们首先分享一些有趣的数据集，权当练习资源，然后会说一说可以去哪里获得干净的高质量数据集。
 
