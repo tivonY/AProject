@@ -9,3 +9,8 @@ redis集群用来做cache缓存数据。
 zookeeper是做分布式管理。
 dubbo是阿里开源的分布式服务框架。
 solr是进行分布式查询服务
+
+
+https://blog.csdn.net/evilcry2013/article/details/78594322
+Class.forName() - 要求JVM查找并加载指定的类  1、这个类已经加载；2、这个类已经连接了。
+new  - 从JVM的角度看，我们使用关键字new创建一个类的时候，这个类可以没有被加载
