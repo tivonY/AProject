@@ -14,3 +14,7 @@ solr是进行分布式查询服务
 https://blog.csdn.net/evilcry2013/article/details/78594322
 Class.forName() - 要求JVM查找并加载指定的类  1、这个类已经加载；2、这个类已经连接了。
 new  - 从JVM的角度看，我们使用关键字new创建一个类的时候，这个类可以没有被加载
+
+
+#distributionUrl=http\://android.oa.com/gradle/gradle-5.4.1-all.zip
+distributionUrl=file:///C:/Users/admin/.gradle/wrapper/dists/gradle-5.4.1-all.zip
